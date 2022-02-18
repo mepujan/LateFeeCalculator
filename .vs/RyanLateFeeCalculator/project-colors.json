@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75a90331-2df0-4c73-930d-f17008e89282": {
+      "ProjectGuid": "75a90331-2df0-4c73-930d-f17008e89282",
+      "DisplayName": "RyanLateFeeCalculator",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "776e5ddb-e9b3-42be-93d5-4a49ac45ae74": {
+      "ProjectGuid": "776e5ddb-e9b3-42be-93d5-4a49ac45ae74",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
